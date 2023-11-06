@@ -27,7 +27,6 @@ const userIds = [
   "734529813112684614",
   "1150749334682472468",
   "1147209283243606016",
-  "1166490256913207367",
   "470772466780995605"
 ];
 
@@ -70,3 +69,4 @@ let mode = 1;
 
 document.oncontextmenu = new Function("return false;");
 window.onkeydown = getKey;
+
